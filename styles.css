@@ -1,0 +1,47 @@
+div.cts-tooltip {
+  visibility: visible;
+  width: auto;
+  background-color: rgba(0, 0, 0, 0.5);
+  color: #fff;
+  text-align: left;
+  border-radius: 3px;
+  font-size: 1rem;
+  position: absolute;
+  z-index: 100;
+  display: flex;
+  flex-direction: column;
+  padding: 5px 5px;
+  margin: 0px 0px;
+}
+
+div.cts-tooltip div.section {
+  display: flex;
+  flex-direction: column;
+  justify-content: left;
+}
+
+div.cts-tooltip div.value {
+  display: flex;
+  flex-direction: row;
+	align-items: center;
+  justify-content: left;
+}
+
+div.cts-tooltip div.value i {
+  color: rgb(75, 106, 243);
+	width: 25px;
+	text-align: center;
+	padding-right: 5px;
+}
+
+div.cts-tooltip div.value j {
+  color: rgb(206, 96, 77);
+	width: 25px;
+	text-align: center;
+	padding-right: 5px;
+}
+
+/* Show the tooltip text when you mouse over the tooltip container */
+div.cts-tooltip.visible {
+  visibility: visible;
+}
