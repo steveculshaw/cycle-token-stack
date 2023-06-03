@@ -1,16 +1,28 @@
 {
-  "title": "Cycle Token Stack",
-  "description": "Cycles through a stack of tokens using repeated left-clicks or hotkeys.",
   "authors": [
     {
-      "name": "Beer Buddy (BeerBuddy#0901 discord)",
-      "flags": {}
+      "flags": {},
+      "name": "Beer Buddy (BeerBuddy#0901 discord)"
     }
   ],
-  "url": "https://github.com/steveculshaw/cycle-token-stack",
-  "readme": "https://github.com/aka-beer-buddy/fvtt-cycle-token-stack/raw/v0.5.4/README.md",
-  "changelog": "https://github.com/aka-beer-buddy/fvtt-cycle-token-stack/raw/v0.5.4/changelog.md",
-  "version": "0.5.4",
+  "changelog": "https://github.com/steveculshaw/cycle-token-stack/master/changelog.md",
+  "compatibility": {
+    "minimum": "0.6.3",
+    "verified": "0.6.5"
+  },
+  "description": "Cycles through a stack of tokens using repeated left-clicks or hotkeys.",
+  "download": "https://github.com/steveculshaw/cycle-token-stack/master/cycle-token-stack.zip",
+  "id": "cycle-token-stack",
+  "languages": [
+    {
+      "flags": {},
+      "lang": "en",
+      "name": "English",
+      "path": "lang/en.json"
+    }
+  ],
+  "manifest": "https://raw.githubusercontent.com/steveculshaw/cycle-token-stack/master/module.json",
+  "readme": "https://github.com/steveculshaw/cycle-token-stack/master/README.md",
   "scripts": [
     "init.js",
     "cycle-token-stack.js"
@@ -18,19 +30,7 @@
   "styles": [
     "styles.css"
   ],
-  "languages": [
-    {
-      "lang": "en",
-      "name": "English",
-      "path": "lang/en.json",
-      "flags": {}
-    }
-  ],
-  "manifest": "https://raw.githubusercontent.com/aka-beer-buddy/fvtt-cycle-token-stack/master/module.json",
-  "download": "https://github.com/aka-beer-buddy/fvtt-cycle-token-stack/raw/v0.5.4/cycle-token-stack.zip",
-  "id": "cycle-token-stack",
-  "compatibility": {
-    "minimum": "0.6.3",
-    "verified": "0.6.5"
-  }
+  "title": "Cycle Token Stack",
+  "url": "https://github.com/steveculshaw/cycle-token-stack",
+  "version": "0.5.4"
 }
