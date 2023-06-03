@@ -4,6 +4,8 @@ For the Foundry Virtual Tabletop (FVTT), this small module helps a you cycle thr
 
 **NOTE:** this repo is a copy of the repo which was at <https://github.com/aka-beer-buddy/fvtt-cycle-token-stack>, but as of 2023-01-06, is no longer there.
 
+Re-install using ... <https://raw.githubusercontent.com/steveculshaw/cycle-token-stack/master/module.json>
+
 ## Features/Behaviors
 
 - **Left-click on a token** will either select it (if unselected) or **invoke a cycle** action which selects the next token in the stack and brings it to the top of the stack. Each subsequent left-click will cycle the stack once.

@@ -5,13 +5,13 @@
       "name": "Beer Buddy (BeerBuddy#0901 discord)"
     }
   ],
-  "changelog": "https://github.com/steveculshaw/cycle-token-stack/master/changelog.md",
+  "changelog": "https://raw.githubusercontent.com/steveculshaw/cycle-token-stack/master/changelog.md",
   "compatibility": {
     "minimum": "0.6.3",
     "verified": "0.6.5"
   },
   "description": "Cycles through a stack of tokens using repeated left-clicks or hotkeys.",
-  "download": "https://github.com/steveculshaw/cycle-token-stack/master/cycle-token-stack.zip",
+  "download": "https://raw.githubusercontent.com/steveculshaw/cycle-token-stack/master/cycle-token-stack.zip",
   "id": "cycle-token-stack",
   "languages": [
     {
@@ -22,7 +22,7 @@
     }
   ],
   "manifest": "https://raw.githubusercontent.com/steveculshaw/cycle-token-stack/master/module.json",
-  "readme": "https://github.com/steveculshaw/cycle-token-stack/master/README.md",
+  "readme": "https://raw.githubusercontent.com/steveculshaw/cycle-token-stack/master/README.md",
   "scripts": [
     "init.js",
     "cycle-token-stack.js"
