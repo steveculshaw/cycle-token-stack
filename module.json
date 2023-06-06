@@ -3,12 +3,16 @@
     {
       "flags": {},
       "name": "Beer Buddy (BeerBuddy#0901 discord)"
+    },
+    {
+      "flags": {},
+      "name": "SteveC (SteveCulshaw#8596 discord)"
     }
   ],
   "changelog": "https://raw.githubusercontent.com/steveculshaw/cycle-token-stack/master/changelog.md",
   "compatibility": {
     "minimum": "0.6.3",
-    "verified": "0.6.5"
+    "verified": "10.291"
   },
   "description": "Cycles through a stack of tokens using repeated left-clicks or hotkeys.",
   "download": "https://raw.githubusercontent.com/steveculshaw/cycle-token-stack/master/cycle-token-stack.zip",
@@ -32,5 +36,5 @@
   ],
   "title": "Cycle Token Stack",
   "url": "https://github.com/steveculshaw/cycle-token-stack",
-  "version": "0.5.4"
+  "version": "0.6.1"
 }

@@ -4,7 +4,7 @@ REM =================================================
 REM Run Script Cycle Token Stack BUILD {rsctsbuild}
 REM =================================================
 
-set VERSION=0.5.4
+set VERSION=0.6.1
 set TGT=cycle-token-stack.zip
 cd C:\OneDrive\Resources\code-repos\cycle-token-stack\
 C:

@@ -2,7 +2,7 @@
 
 For the Foundry Virtual Tabletop (FVTT), this small module helps a you cycle through tokens that are stacked upon one another using left-mouse clicks or a '[' key stroke. You can also click ']' to push a token you can control behind all others.
 
-**NOTE:** this repo is a copy of the repo which was at <https://github.com/aka-beer-buddy/fvtt-cycle-token-stack>, but as of 2023-01-06, is no longer there.
+**NOTE:** this repo is a copy of the repo which was at <https://github.com/aka-beer-buddy/fvtt-cycle-token-stack>, but as of 2023-01-06, is no longer there. I have not done any of the coding work, that's all Beer Buddy hard work. All I did was create a new GitHub repo, so I'd not get an error message whenever I updates all my Foundry module.
 
 Re-install using ... <https://raw.githubusercontent.com/steveculshaw/cycle-token-stack/master/module.json>
 

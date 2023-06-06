@@ -1,5 +1,13 @@
 # CHANGELOG
 
+## [0.6.1] 2023-06-05
+
+- **IMPORTANT:** This is just a point release to show module is v10 compatibility.
+
+### BUGFIXES
+
+- None
+
 ## [0.5.4] 2020-08-18
 
 ### BUGFIXES
