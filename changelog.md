@@ -1,5 +1,9 @@
 # CHANGELOG
 
+## [0.6.2] 2023-06-21
+
+- **IMPORTANT:** This is just a point release to show module is v11 compatibility.
+
 ## [0.6.1] 2023-06-05
 
 - **IMPORTANT:** This is just a point release to show module is v10 compatibility.
