@@ -1,6 +1,6 @@
 # CHANGELOG
 
-## [0.6.2] 2023-06-21
+## [0.6.3] 2023-06-21
 
 - **IMPORTANT:** This is just a point release to show module is v11 compatibility.
 
